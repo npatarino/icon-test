@@ -1,18 +1,7 @@
 {
-  "contributors": [
-    {
-      "name": "Andreas Mehlsen",
-      "email": "hello@example.com",
-      "url": "https://twitter.com/andreasmehlsen",
-      "img": "https://avatars1.githubusercontent.com/u/6267397?s=460&v=4",
-      "info": [
-        "🔥"
-      ]
-    },
-    {
-      "name": "You?",
-      "img": "https://joeschmoe.io/api/v1/random",
-      "url": "https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md"
-    }
+  "properties": [
+    ["Attribute", "Type", "Description"],
+    ["**size**", "'medium', 'large'", "Determines the size" ],
+    ["**active**", "boolean", "Whether the element is active or not" ]
   ]
 }
