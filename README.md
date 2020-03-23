@@ -3,6 +3,6 @@
 
 | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) |
 |--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-| IconName                             | IconName                             | IconName                             | IconName                             | IconName                             | IconName                             |
-| AlternativeName                      | AlternativeName                      | AlternativeName                      | AlternativeName                      | AlternativeName                      | AlternativeName                      |
+| <sub>IconName</sub>                  | <sub>IconName</sub>                  | <sub>IconName</sub>                  | <sub>IconName</sub>                  | <sub>IconName</sub>                  | <sub>IconName</sub>                  |
+| <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           |
 
