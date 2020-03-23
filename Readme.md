@@ -1,4 +1,4 @@
-| Nombre     | Símbolo |
-| ---      | ---       |
-| Comilla simple | `         |
-| Barra vertical | \|        |
+| Nombre     | Símbolo | Nombre     | Símbolo |
+| ---      | ---       | ---      | ---       |
+| Comilla simple | `         | Comilla simple | `         |
+| Barra vertical | \|        | Barra vertical | \|        |
