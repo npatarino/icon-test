@@ -1,4 +1,7 @@
 {
   "name": "Icons Library",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "devDependencies": {
+    "@appnest/readme": "^1.2.7"
+  }
 }
