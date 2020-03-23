@@ -7,3 +7,6 @@ Welcome to {{ pkg.name }}. This is version {{ pkg.version }}!
 {{ properties5 }}
 {{ properties6 }}
 {{ properties7 }}
+{{ properties8 }}
+{{ properties9 }}
+{{ properties10 }}
