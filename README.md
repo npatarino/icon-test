@@ -6,3 +6,16 @@
 | IconName            | IconName            | IconName            | IconName            | IconName            | IconName            | IconName            | IconName            | IconName            | IconName            | IconName            |
 | IconNameAlternative | IconNameAlternative | IconNameAlternative | IconNameAlternative | IconNameAlternative | IconNameAlternative | IconNameAlternative | IconNameAlternative | IconNameAlternative | IconNameAlternative | IconNameAlternative |
 
+
+
+| ![icn_help](/Users/yayo/Kactus/icon-test/icn_export/icn_help.png) |      |      |      |      |      |      |      |      |      |
+| ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|                                                              |      |      |      |      |      |      |      |      |      |
+|                                                              |      |      |      |      |      |      |      |      |      |
+|                                                              |      |      |      |      |      |      |      |      |      |
+|                                                              |      |      |      |      |      |      |      |      |      |
+|                                                              |      |      |      |      |      |      |      |      |      |
+|                                                              |      |      |      |      |      |      |      |      |      |
+|                                                              |      |      |      |      |      |      |      |      |      |
+|                                                              |      |      |      |      |      |      |      |      |      |
+|                                                              |      |      |      |      |      |      |      |      |      |
