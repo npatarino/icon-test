@@ -1,8 +1,8 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->Welcome to Icons Library. This is version 1.0.0!
 
 
-| ![icn_help](icn_export/icn_help.png)  | ![icn_help](icn_export/icn_help.png)  | ![icn_help](icn_export/icn_help.png)  | ![icn_help](icn_export/icn_help.png)  | ![icn_help](icn_export/icn_help.png)  | ![icn_help](icn_export/icn_help.png)  |
-|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-| <sub><sup>IconName</sup></sub>        | <sub><sup>IconName</sup></sub>        | <sub><sup>IconName</sup></sub>        | <sub><sup>IconName</sup></sub>        | <sub><sup>IconName</sup></sub>        | <sub><sup>IconName</sup></sub>        |
-| <sub><sup>AlternativeName</sup></sub> | <sub><sup>AlternativeName</sup></sub> | <sub><sup>AlternativeName</sup></sub> | <sub><sup>AlternativeName</sup></sub> | <sub><sup>AlternativeName</sup></sub> | <sub><sup>AlternativeName</sup></sub> |
+| ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) | ![icn_help](icn_export/icn_help.png) |
+|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| <sub>IconName</sub>                  | <sub>IconName</sub>                  | <sub>IconName</sub>                  | <sub>IconName</sub>                  | <sub>IconName</sub>                  | <sub>IconName</sub>                  |
+| <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           | <sub>AlternativeName</sub>           |
 
