@@ -1,6 +1,6 @@
 {
   "properties": [
-    ["Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon"],
+    ["![Test Image 6](master/icn_export/icn_help.png)", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon", "Icon"],
     ["IconName", "IconName", "IconName", "IconName", "IconName", "IconName", "IconName", "IconName", "IconName", "IconName", "IconName"],
     ["IconNameAlternative", "IconNameAlternative", "IconNameAlternative", "IconNameAlternative", "IconNameAlternative", "IconNameAlternative", "IconNameAlternative", "IconNameAlternative", "IconNameAlternative", "IconNameAlternative", "IconNameAlternative"]
   ]
