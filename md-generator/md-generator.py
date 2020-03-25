@@ -26,11 +26,12 @@ if __name__ == '__main__':
         brand_folder = path + SLASH + brand
         if os.path.isdir(brand_folder) and brand != ".DS_Store":
             for icon in os.listdir(brand_folder):
-                if icon in dictionary:
-                    brands = dictionary[icon]
-                    brands.append(brand)
-                else:
-                    dictionary[icon] = [brand]
+                if icon != ".DS_Store":
+                    if icon in dictionary:
+                        brands = dictionary[icon]
+                        brands.append(brand)
+                    else:
+                        dictionary[icon] = [brand]
     for icon in dictionary:
         line_image = PIPE
         line_separator = BREAK + PIPE
@@ -45,6 +46,7 @@ if __name__ == '__main__':
 
     output_file_path = os.path.dirname(path) + SLASH + "README.md"
     print(output_file_path)
+    print(file_content)
     file = open(output_file_path, "w+")
     file.write(file_content)
     file.close()
