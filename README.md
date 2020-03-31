@@ -1,5 +1,5 @@
 | global | name | SVG | PDF | | O2 | name | SVG | PDF |
-| - | :-: | - | :-: | - | - | - | - | - |
+| :-: | :- | :-: | :-: | - | :-: | :- | :-: | :-: |
 | ![icn_home](icn_export/Global/icn_home/PNG/icn_home.png) | `icn_home`  |  [.svg](icn_export/Global/icn_home/SVG/icn_home.svg) | [.pdf](icn_export/Global/icn_home/PDF/icn_home.pdf) |  | ![icn_home](icn_export/O2/icn_home/PNG/icn_home.png) | `icn_home`  |  [.svg](icn_export/O2/icn_home/SVG/icn_home.svg) | [.pdf](icn_export/O2/icn_home/PDF/icn_home.pdf) |  
 | ![icn_back](icn_export/Global/icn_back/PNG/icn_back.png) | `icn_back`  |  [.svg](icn_export/Global/icn_back/SVG/icn_back.svg) | [.pdf](icn_export/Global/icn_back/PDF/icn_back.pdf) |  | ![icn_back](icn_export/O2/icn_back/PNG/icn_back.png) | `icn_back`  |  [.svg](icn_export/O2/icn_back/SVG/icn_back.svg) | [.pdf](icn_export/O2/icn_back/PDF/icn_back.pdf) |  
 | ![icn_delete](icn_export/Global/icn_delete/PNG/icn_delete.png) | `icn_delete`  |  [.svg](icn_export/Global/icn_delete/SVG/icn_delete.svg) | [.pdf](icn_export/Global/icn_delete/PDF/icn_delete.pdf) |  | ![icn_delete](icn_export/O2/icn_delete/PNG/icn_delete.png) | `icn_delete`  |  [.svg](icn_export/O2/icn_delete/SVG/icn_delete.svg) | [.pdf](icn_export/O2/icn_delete/PDF/icn_delete.pdf) |  
