@@ -24,11 +24,14 @@ if __name__ == '__main__':
         if os.path.isdir(brand_folder) and brand != ".DS_Store":
             for icon in os.listdir(brand_folder):
                 if icon != ".DS_Store":
-                    if icon in dictionary:
-                        brands = dictionary[icon]
-                        brands.append(brand)
+                    icon_name = os.path.splitext(icon)[0]
+                    icon_extension = os.path.splitext(icon)[1]
+                    if icon_name in dictionary:
+                        brands = dictionary[icon_name]
+                        if brand not in brands:
+                            brands.append(brand)
                     else:
-                        dictionary[icon] = [brand]
+                        dictionary[icon_name] = [brand]
 
     for icon in dictionary:
         line_image = PIPE
@@ -38,9 +41,9 @@ if __name__ == '__main__':
         counter = 0
         dictionary[icon].sort()
         for brand in dictionary[icon]:
-            path_icon = root + SLASH + brand + SLASH + icon + SLASH + PNG_FOLDER + SLASH + icon + PNG_EXTENSION
-            svg_icon = root + SLASH + brand + SLASH + icon + SLASH + SVG_FOLDER + SLASH + icon + SVG_EXTENSION
-            pdf_icon = root + SLASH + brand + SLASH + icon + SLASH + PDF_FOLDER + SLASH + icon + PDF_EXTENSION
+            path_icon = root + SLASH + brand + SLASH + icon + PNG_EXTENSION
+            svg_icon = root + SLASH + brand + SLASH + icon + SVG_EXTENSION
+            pdf_icon = root + SLASH + brand + SLASH + icon + PDF_EXTENSION
             row = row + "| ![" + icon + "](" + path_icon + ") | `" + icon + "`  |  [.svg](" + svg_icon + ") | [.pdf](" + pdf_icon + ") |  "
         file_content += row + BREAK
 
